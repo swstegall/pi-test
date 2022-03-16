@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Pi Test</string>
+  <string name="main_route">Pi Test</string>
+  <string name="about_route">About Pi Test</string>
+</resources>
